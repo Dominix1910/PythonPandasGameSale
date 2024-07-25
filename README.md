@@ -84,6 +84,8 @@ Let's answer the last question, why did 2007 have so many titles released?
 top10 = (data_copy['released'].value_counts()).iloc[:10]
 top10.plot(kind='barh')
 ```
+![image](https://github.com/user-attachments/assets/bd339712-7ea8-4e91-8e1c-f64fe212ef00)
+
  The year 2007 had the most titles released, and the reason for that is that shooter games had the most released that year.
 
 
